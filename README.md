@@ -14,9 +14,9 @@ I am a Software Architect and Software engineer and currently working at [Banco 
 
 ## Technologies & Tools
 
-![Technologies](https://skillicons.dev/icons?i=css,git,html,java,js,kotlin,kubernetes,mysql,react,spring,ts)
+![Technologies](https://skillicons.dev/icons?i=css,git,html,java,js,kotlin,kubernetes,mysql,react,spring,ts,latex)
 
-![Tools](https://skillicons.dev/icons?i=docker,gcp,github,gradle,grafana,idea,jenkins,linux,maven,postman,rabbitmq,vscode)
+![Tools](https://skillicons.dev/icons?i=docker,gcp,github,gradle,grafana,idea,jenkins,linux,maven,postman,rabbitmq,vscode,overleaf)
 
 ## Github Stats
 
