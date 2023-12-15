@@ -34,3 +34,9 @@ I am a Software Architect and Software engineer and currently working at [Banco 
 <div align="center">
   <img src="(https://komarev.com/ghpvc/?username=jjjunior&color=green)" align="center" />
 </div>
+
+![Snake animation](https://github.com/jjjunior/jjjunior/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jjjunior&&style=flat-square" align="center" />
+</div>
