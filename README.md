@@ -3,7 +3,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 
-I am a Software architect and Software architect and currently working at [Banco BV](https://www.bancobv.com.br/).
+I am a Software Architect and Software engineer and currently working at [Banco BV](https://www.bancobv.com.br/).
 
 ## Contacts
 
@@ -29,7 +29,7 @@ I am a Software architect and Software architect and currently working at [Banco
 
 ##
 
-![Snake animation](https://github.com/kleitonutida/jjjunior/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jjjunior/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jjjunior&&style=flat-square" align="center" />
