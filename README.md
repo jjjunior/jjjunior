@@ -16,21 +16,21 @@ I am a Software Engineer and currently working at [Mercado Livre](https://www.me
 
 ![Technologies](https://skillicons.dev/icons?i=css,git,html,java,js,kotlin,kubernetes,mysql,react,spring,ts)
 
-![Tools](https://skillicons.dev/icons?i=docker,gcp,github,gradle,grafana,idea,jenkins,linux,maven,postman,prometheus,rabbitmq,vscode)
+![Tools](https://skillicons.dev/icons?i=docker,gcp,github,gradle,grafana,idea,jenkins,linux,maven,postman,rabbitmq,vscode)
 
 ## Github Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=kleitonutida&theme=gruvbox&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=jjjunior&theme=gruvbox&column=7)
 
-![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleitonutida&count_private=true&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonutida&langs_count=8&layout=compact&theme=gruvbox)
+![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjunior&count_private=true&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjunior&langs_count=8&layout=compact&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kleitonutida&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jjjunior&theme=gruvbox)
 
 ##
 
-![Snake animation](https://github.com/kleitonutida/kleitonutida/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kleitonutida/jjjunior/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kleitonutida&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=jjjunior&&style=flat-square" align="center" />
 </div>
