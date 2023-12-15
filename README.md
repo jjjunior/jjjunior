@@ -3,14 +3,14 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 
-I am a Software Engineer and currently working at [Mercado Livre](https://www.mercadolivre.com.br/).
+I am a Software architect and Software architect and currently working at [Banco BV](https://www.bancobv.com.br/).
 
 ## Contacts
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kleiton-haruo-utida-a4507427/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:klhutida@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kleitonutida)
-[![Gitlab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/kleitonutida)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joaomaranhaojunior/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jjjunior@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jjjunior)
+
 
 ## Technologies & Tools
 
@@ -22,7 +22,7 @@ I am a Software Engineer and currently working at [Mercado Livre](https://www.me
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jjjunior&theme=gruvbox&column=7)
 
-![Kleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjunior&count_private=true&show_icons=true&theme=gruvbox)
+![JJunior's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjunior&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjunior&langs_count=8&layout=compact&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jjjunior&theme=gruvbox)
