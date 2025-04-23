@@ -46,7 +46,7 @@
 ![Streak](https://streak-stats.demolab.com/?user=jjjunior&theme=darkhub)
 
 ### 💬 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjunior&layout=compact&langs_count=10&theme=darkhub)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjunior&hide_progress=true&layout=compact&langs_count=10&theme=darkhub)
 
 ---
 
