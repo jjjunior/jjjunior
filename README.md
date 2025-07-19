@@ -4,7 +4,7 @@
 [![Português](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
 
 🎯 **Software Architect | Backend Specialist | DevOps Enthusiast**  
-🏦 Working at [Banco BV](https://www.bancobv.com.br/)  
+🏦 Working at [Telefonica|Vivo](https://www.vivo.com.br/)  
 💡 Designing scalable, secure, and resilient architectures  
 🚀 Advocate for clean code, cloud-native platforms, and automation
 
