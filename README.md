@@ -40,7 +40,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jjjunior&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=darkhub&column=6&margin-w=10&margin-h=10)
 
 ### 📊 Overall Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jjjunior&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=darkhub)
+![Stats](https://github-readme-stats.vercel.app/api?username=jjjunior&count_private=true&include_all_commits=true&show_icons=true&theme=darkhub)
 
 ### 🔥 Streaks
 ![Streak](https://streak-stats.demolab.com/?user=jjjunior&theme=darkhub)
