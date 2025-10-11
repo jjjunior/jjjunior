@@ -21,7 +21,7 @@
 ## 🧰 Tech Toolbox
 
 ### 👨‍💻 Languages & Frameworks
-![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
+![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![Golang](https://skillicons.dev/icons?i=golang) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GCP](https://skillicons.dev/icons?i=gcp) ![Kafka](https://skillicons.dev/icons?i=kafka) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
