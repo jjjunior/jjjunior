@@ -27,7 +27,7 @@
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GCP](https://skillicons.dev/icons?i=gcp) ![Kafka](https://skillicons.dev/icons?i=kafka) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 
 ### 🗄️ Database
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle) ![Posgresql](https://skillicons.dev/icons?i=postgreaql) ![Neo4j](https://skillicons.dev/icons?i=neo4j)      
+![MySQL](https://cdn.simpleicons.org/mysql/4479A1) ![Oracle](https://cdn.simpleicons.org/oracle/F80000) ![PostgreSQL](https://cdn.simpleicons.org/postgresql/336791) ![Neo4j](https://cdn.simpleicons.org/neo4j/008CC1)
 
 ### 🗄️ Observability
 ![Grafana](https://skillicons.dev/icons?i=grafana)
