@@ -26,11 +26,14 @@
 ### ☁️ DevOps & Cloud
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GCP](https://skillicons.dev/icons?i=gcp) ![Kafka](https://skillicons.dev/icons?i=kafka) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 
-### 🗄️ Databases & Observability
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Postman](https://skillicons.dev/icons?i=postman) ![Grafana](https://skillicons.dev/icons?i=grafana)
+### 🗄️ Database
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle) ![Posgresql](https://skillicons.dev/icons?i=postgreaql) ![Neo4j](https://skillicons.dev/icons?i=neo4j)      
+
+### 🗄️ Observability
+![Grafana](https://skillicons.dev/icons?i=grafana)
 
 ### 🧪 IDEs & Platforms
-![IntelliJ](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Maven](https://skillicons.dev/icons?i=maven) ![Overleaf](https://skillicons.dev/icons?i=overleaf) ![Lens](https://skillicons.dev/icons?i=kubernetes)
+![IntelliJ](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Maven](https://skillicons.dev/icons?i=maven)![Lens](https://skillicons.dev/icons?i=kubernetes)
 
 ---
 
