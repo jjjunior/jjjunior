@@ -28,11 +28,11 @@
 
 Infelizmente os icones sao diferentes: ### 🗄️ Database
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="30" height="30" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="30" height="30" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="30" height="30" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j" width="28" height="30" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/MongoDB/008CC1" alt="MongoDB" width="28" height="30" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/MongoDB/008CC1" alt="MongoDB" width="50" height="50" style="margin-right:10px;" />
 </p>
 
 
