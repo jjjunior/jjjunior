@@ -26,13 +26,12 @@
 ### ☁️ DevOps & Cloud
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GCP](https://skillicons.dev/icons?i=gcp) ![Kafka](https://skillicons.dev/icons?i=kafka) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 
-Infelizmente os icones sao diferentes: ### 🗄️ Database
+### 🗄️ Database
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="26" style="margin-right:8px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="45" style="margin-right:8px;" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="26" style="margin-right:8px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.svg" width="45" style="margin-right:8px;" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="26" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="28" height="28" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="28" height="28" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="28" height="28" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j" width="28" height="28" style="margin-right:10px;" />
 </p>
 
 ### 🗄️ Observability
