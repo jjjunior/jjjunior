@@ -29,7 +29,7 @@
 Infelizmente os icones sao diferentes: ### 🗄️ Database
 <p align="left">
   <img src="https://cdn.simpleicons.org/mysql/008CC1" alt="MySQL" width="50" height="50" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/oracle/008CC1" alt="Oracle" width="50" height="50" style="margin-right:10px;" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="45" style="margin-right:8px;" /
   <img src="https://cdn.simpleicons.org/postgresql/008CC1" alt="PostgreSQL" width="50" height="50" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j" width="50" height="50" style="margin-right:10px;" />
   <img src="https://cdn.simpleicons.org/MongoDB/008CC1" alt="MongoDB" width="50" height="50" style="margin-right:10px;" />
