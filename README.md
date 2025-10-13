@@ -28,13 +28,12 @@
 
 Infelizmente os icones sao diferentes: ### 🗄️ Database
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/008CC1" alt="MySQL" width="50" height="50" style="margin-right:10px;" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="45" style="margin-right:8px;" /
-  <img src="https://cdn.simpleicons.org/postgresql/008CC1" alt="PostgreSQL" width="50" height="50" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j" width="50" height="50" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/MongoDB/008CC1" alt="MongoDB" width="50" height="50" style="margin-right:10px;" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="26" style="margin-right:8px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="45" style="margin-right:8px;" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="26" style="margin-right:8px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.svg" width="45" style="margin-right:8px;" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="26" />
 </p>
-
 
 ### 🗄️ Observability
 ![Grafana](https://skillicons.dev/icons?i=grafana)
