@@ -21,7 +21,7 @@
 ## 🧰 Tech Toolbox
 
 ### 👨‍💻 Languages & Frameworks
-![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![Golang](https://skillicons.dev/icons?i=golang) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
+![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![Golang](https://skillicons.dev/icons?i=golang) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring) ![Latex](https://skillicons.dev/icons?i=latex) 
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GCP](https://skillicons.dev/icons?i=gcp) ![Kafka](https://skillicons.dev/icons?i=kafka) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
@@ -30,7 +30,7 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![Postman](https://skillicons.dev/icons?i=postman) ![Grafana](https://skillicons.dev/icons?i=grafana)
 
 ### 🧪 IDEs & Platforms
-![IntelliJ](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Maven](https://skillicons.dev/icons?i=maven) ![Overleaf](https://skillicons.dev/icons?i=latex) ![Lens](https://skillicons.dev/icons?i=kubernetes)
+![IntelliJ](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Maven](https://skillicons.dev/icons?i=maven) ![Overleaf](https://skillicons.dev/icons?i=overleaf) ![Lens](https://skillicons.dev/icons?i=kubernetes)
 
 ---
 
