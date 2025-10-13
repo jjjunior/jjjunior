@@ -37,13 +37,10 @@
 ### 📊 Observability
 <p align="left">
   <img src="https://skillicons.dev/icons?i=grafana" width="30" style="margin-right:8px;" />
-  <img src="https://skillicons.dev/icons?i=datadog" width="30" style="margin-right:8px;" />
   <img src="https://skillicons.dev/icons?i=prometheus" width="30" style="margin-right:8px;" />
   <img src="https://skillicons.dev/icons?i=kibana" width="30" style="margin-right:8px;" />
   <img src="https://skillicons.dev/icons?i=elasticsearch" width="30" style="margin-right:8px;" />
   <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" width="75" style="margin-right:8px;" />
-  <img src="https://www.jaegertracing.io/img/jaeger-icon-reverse-color.svg" width="40" style="margin-right:8px;" />
-  <img src="https://zipkin.io/public/img/logo.svg" width="40" />
 </p>
 
 ### 🧪 IDEs & Platforms
