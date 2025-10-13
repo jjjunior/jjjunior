@@ -34,8 +34,17 @@
   <img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j" width="60" height="60" style="margin-right:10px;" />
 </p>
 
-### 🗄️ Observability
-![Grafana](https://skillicons.dev/icons?i=grafana)
+### 📊 Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana" width="30" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=datadog" width="30" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=prometheus" width="30" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=kibana" width="30" style="margin-right:8px;" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="30" style="margin-right:8px;" />
+  <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" width="75" style="margin-right:8px;" />
+  <img src="https://www.jaegertracing.io/img/jaeger-icon-reverse-color.svg" width="40" style="margin-right:8px;" />
+  <img src="https://zipkin.io/public/img/logo.svg" width="40" />
+</p>
 
 ### 🧪 IDEs & Platforms
 ![IntelliJ](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Maven](https://skillicons.dev/icons?i=maven)![Lens](https://skillicons.dev/icons?i=kubernetes)
