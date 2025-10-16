@@ -21,30 +21,16 @@
 ## 🧰 Tech Toolbox
 
 ### 👨‍💻 Languages & Frameworks
-![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![Golang](https://skillicons.dev/icons?i=golang) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring) ![Latex](https://skillicons.dev/icons?i=latex) 
+![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![GCP](https://skillicons.dev/icons?i=gcp) ![Kafka](https://skillicons.dev/icons?i=kafka) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 
-### 🗄️ Database
-<p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="60" height="60" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="60" height="60" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="60" height="60" style="margin-right:10px;" />
-  <img src="https://cdn.simpleicons.org/neo4j/008CC1" alt="Neo4j" width="60" height="60" style="margin-right:10px;" />
-</p>
-
-### 📊 Observability
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=grafana" width="30" style="margin-right:8px;" />
-  <img src="https://skillicons.dev/icons?i=prometheus" width="30" style="margin-right:8px;" />
-  <img src="https://skillicons.dev/icons?i=kibana" width="30" style="margin-right:8px;" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" width="30" style="margin-right:8px;" />
-  <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" width="75" style="margin-right:8px;" />
-</p>
+### 🗄️ Databases & Observability
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Postman](https://skillicons.dev/icons?i=postman) ![Grafana](https://skillicons.dev/icons?i=grafana)
 
 ### 🧪 IDEs & Platforms
-![IntelliJ](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Maven](https://skillicons.dev/icons?i=maven)![Lens](https://skillicons.dev/icons?i=kubernetes)
+![IntelliJ](https://skillicons.dev/icons?i=idea) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Maven](https://skillicons.dev/icons?i=maven) ![Overleaf](https://skillicons.dev/icons?i=latex) ![Lens](https://skillicons.dev/icons?i=kubernetes)
 
 ---
 
